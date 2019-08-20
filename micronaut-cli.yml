@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cl.sentra.micronaut
+---
+testFramework: junit
+sourceLanguage: java
